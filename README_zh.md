@@ -89,6 +89,20 @@ cp -r vibesurf ~/.openclaw/skills/
 xcopy /E /I vibesurf %USERPROFILE%\.openclaw\skills\vibesurf
 ```
 
+### 更新
+
+如果你已经安装了 vibesurf 并想更新到最新版本：
+
+```bash
+npx clawhub update vibesurf
+```
+
+强制更新（覆盖本地修改）：
+
+```bash
+npx clawhub update vibesurf --force
+```
+
 ## 快速开始
 
 安装并启动 VibeSurf 后，你可以：

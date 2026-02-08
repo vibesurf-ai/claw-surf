@@ -89,6 +89,20 @@ cp -r vibesurf ~/.openclaw/skills/
 xcopy /E /I vibesurf %USERPROFILE%\.openclaw\skills\vibesurf
 ```
 
+### Update
+
+If you already have vibesurf installed and want to update to the latest version:
+
+```bash
+npx clawhub update vibesurf
+```
+
+To force update (overwrite local modifications):
+
+```bash
+npx clawhub update vibesurf --force
+```
+
 ## Quick Start
 
 After installation and starting VibeSurf, you can:

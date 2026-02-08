@@ -86,6 +86,7 @@ Content-Type: application/json
 | VibeSurf key/workflows | [references/config-vibesurf.md](references/config-vibesurf.md) | `/api/vibesurf/*` |
 | Composio key/toolkits | [references/config-composio.md](references/config-composio.md) | `/api/composio/*` |
 | Schedule workflows | [references/config-schedule.md](references/config-schedule.md) | `/api/schedule/*` |
+| File upload/download | [references/file.md](references/file.md) | `/api/files/*` |
 
 ---
 
@@ -173,6 +174,7 @@ Browser/Web Task
 | Configure VibeSurf key | [references/config-vibesurf.md](references/config-vibesurf.md) | `/api/vibesurf/verify-key` |
 | Enable Composio toolkits | [references/config-composio.md](references/config-composio.md) | `/api/composio/toolkits` |
 | Schedule workflows | [references/config-schedule.md](references/config-schedule.md) | `/api/schedule/*` |
+| Upload/Download files | [references/file.md](references/file.md) | `/api/files/*` |
 
 ---
 
@@ -197,6 +199,7 @@ Browser/Web Task
 | "Set VibeSurf API key" | [references/config-vibesurf.md](references/config-vibesurf.md) | `/api/vibesurf/verify-key` |
 | "Enable Gmail/GitHub" | [references/config-composio.md](references/config-composio.md) | `/api/composio/toolkits` |
 | "Schedule workflow" | [references/config-schedule.md](references/config-schedule.md) | `/api/schedule/*` |
+| "Upload file" / "Download file" | [references/file.md](references/file.md) | `/api/files/*` |
 
 ---
 
